@@ -11,7 +11,7 @@
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathz0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
